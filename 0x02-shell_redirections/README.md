@@ -1,1 +1,2 @@
-Shell I/O redirections
+0X02-shell redirections script
+
