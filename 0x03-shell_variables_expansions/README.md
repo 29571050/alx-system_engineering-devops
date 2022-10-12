@@ -1,1 +1,1 @@
-0x03 shell variables expansion
+shell, init files, variables and expansions
