@@ -1,1 +1,1 @@
- 0x03. Shell, init files, variables and filters
+0x03-shell variables and expansions
